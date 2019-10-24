@@ -20,6 +20,7 @@ resolver(Acertijo, Structure, Solucion) :-
          mostrar(Structure),              % .
          mostrar(Solucion).
 
+%========= Relaciones espec�ficas para un acertijo dado =========
  %modificacion para el problema de la misiones espaciales
  % mes(1,enero) => 1, mes(2,febrero) => 2
  % mes(3,marzo) => 3, mes(4,abril) => 4
